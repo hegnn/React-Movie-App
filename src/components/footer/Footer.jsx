@@ -10,8 +10,7 @@ const Footer = () => {
             <div className="row mt-3 mb-5">
                     <div className="col-md-8 col-sm-6" style={{color: '#5a606b'}}>
                         <h3>ABOUT ME</h3>
-                        <p>sdfsdf</p>
-                        <p>sdfhdfhdf</p>
+                        <p>I am a computer engineering student who focuses on to improve himself with the projects.</p>
                         <ul class="list-inline">
                             <li class="list-inline-item">
                                 <a href="/" style={{color: '#f4c10f'}} >
@@ -46,19 +45,11 @@ const Footer = () => {
                                         
                                     </p>
                                 </li>
+                                
                                 <li>
                                     <p>
-                                        <strong>
-                                            <i className="fas fa-phone-alt"></i>
-                                            Phone:</strong> +90 534 325 1982
-                                        
-                                    </p>
-                                </li>
-                                <li>
-                                    <p>
-                                        <strong>
-                                            <i className="fas fa-envelope"></i>
-                                            Mail:</strong> hegonen98@gmail.com
+                                        <i className="fab fa-linkedin"></i>
+                                        <a style={{color: "#ffffff"}} href="https://www.linkedin.com/in/harun-ergin-gönen-888585198/">  Harun Ergin Gönen</a>
                                         
                                     </p>
                                 </li>
