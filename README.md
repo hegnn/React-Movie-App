@@ -1,4 +1,4 @@
- **Here you find the deployed version of this project https://hegonen-movie-app.netlify.app/
+ **Here you find the deployed version of this project https://hegonen-movie-app.netlify.app/**
 
 
 # Getting Started with Create React App
